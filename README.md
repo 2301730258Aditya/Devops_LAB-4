@@ -9,6 +9,3 @@
 - `secrets/` — HashiCorp Vault least-privilege policy, scoped token setup, secret rotation, and K8s Secret sync
 - `docs/` — Captured command logs and terminal screenshots
 
-## Student template notice
-Adapted from instructor-distributed example repository. Historical reports, screenshots, logs and generated infrastructure state are intentionally excluded. Run the exercises yourself and add your own evidence. Configure your own GitHub repository and environment before running.
-Create the namespace with `kubectl create namespace lab4-student` before deploying the manifests.
