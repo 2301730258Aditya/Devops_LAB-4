@@ -1,9 +1,3 @@
-# ENSP461 Lab 4: Advanced Deployment Strategies & Enterprise DevOps
-
-- **Student:** YOUR_NAME (YOUR_ROLL_NUMBER)
-- **Environment:** Ubuntu 24.04 LTS (WSL2), Docker, Kubernetes (Minikube), Jenkins, HashiCorp Vault
-- **Repository:** https://github.com/YOUR_GITHUB_USERNAME/devops-lab-4
-
 ## Structure
 - `app/` — Flask + SQLite microservice with health, persistence, secret-fingerprint, and fault-injection endpoints
 - `tests/` — Automated unit and integration test suites (CI/CD pipeline gates)
